@@ -1,6 +1,5 @@
 untitled.html
 But_I_must_explain_to__.html
-div_span_class_ltx_Math_contenteditable__.html
 figures/figure_1/figure_1.png
 latex.tex
 On_the_other_hand_we__.html
